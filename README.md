@@ -1,7 +1,8 @@
 <h1 align="center">Hi there! 👋 I'm Gaurav Kumar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Engineer;ML+%2F+AI+Enthusiast;Undergraduate+Student;Always+learning%2C+always+building+🚀" alt="Typing SVG" />
+  <b>Full Stack Developer &nbsp;·&nbsp; Backend Engineer &nbsp;·&nbsp; ML / AI Enthusiast</b><br/>
+  <i>Undergraduate Student &nbsp;|&nbsp; Always learning, always building 🚀</i>
 </p>
 
 ---
