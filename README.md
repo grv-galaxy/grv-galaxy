@@ -69,7 +69,7 @@ I'm a passionate **undergraduate student** with a love for building things that 
   <a href="https://github.com/grv-galaxy" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="YOUR_LINKEDIN_URL_HERE" target="_blank">
+  <a href="https://www.linkedin.com/in/gaurav-kumar-thakur-2292193a5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="YOUR_INSTAGRAM_URL_HERE" target="_blank">
