@@ -75,7 +75,7 @@ I'm a passionate **undergraduate student** with a love for building things that 
   <a href="YOUR_INSTAGRAM_URL_HERE" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="YOUR_PORTFOLIO_URL_HERE" target="_blank">
+  <a href="https://portfolio-new-805af.web.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
