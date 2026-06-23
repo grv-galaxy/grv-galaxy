@@ -78,6 +78,9 @@ I'm a passionate **undergraduate student** with a love for building things that 
   <a href="https://portfolio-new-805af.web.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
+  <a href="https://huggingface.co/airzipm" target="_blank">
+    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  </a>
 </p>
 
 ---
