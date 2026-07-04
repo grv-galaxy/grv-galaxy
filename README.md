@@ -52,14 +52,22 @@ I'm a passionate **undergraduate student** with a love for building things that 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=grv-galaxy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=grv-galaxy&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=C084FC&currStreakLabel=A78BFA" width="48%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grv-galaxy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff" width="40%" />
-</p>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=grv-galaxy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=C084FC&text_color=ffffff&include_all_commits=true&count_private=true" alt="Gaurav's GitHub Stats" />
+<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=grv-galaxy&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=C084FC&fire=C084FC&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=ffffff80" alt="Gaurav's GitHub Streak" />
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grv-galaxy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff&langs_count=8" alt="Gaurav's Top Languages" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=grv-galaxy&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=C084FC&point=ffffff&area=true&area_color=A78BFA" alt="Gaurav's Contribution Graph" />
+
+</div>
+
+> **Note:** These stat cards are served live by third‑party generators (github‑readme‑stats, github‑readme‑streak‑stats, github‑readme‑activity‑graph). If a card doesn't render for you, it's almost always one of these — not the markdown itself:
+> - The public demo servers (`github-readme-stats.vercel.app`, `github-readme-streak-stats.herokuapp.com`) are rate‑limited and occasionally sleep/timeout — refresh the page or wait a minute.
+> - GitHub sometimes caches a broken image response — do a hard refresh (Ctrl/Cmd+Shift+R) on your profile page.
+> - `username=grv-galaxy` must exactly match your GitHub handle and the profile must be public.
+> - For guaranteed uptime, deploy your own free instance of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance) and swap the domain in each URL above.
 
 ---
 
