@@ -54,25 +54,11 @@ I'm a passionate **undergraduate student** with a love for building things that 
 
 <div align="center">
 
-<img height="165em" src="./generated/overview.svg" alt="Gaurav's GitHub Stats" />
 <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=grv-galaxy&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=C084FC&fire=C084FC&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=ffffff80" alt="Gaurav's GitHub Streak" />
-
-<img width="45%" src="./generated/languages.svg" alt="Gaurav's Top Languages" />
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=grv-galaxy&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=C084FC&point=ffffff&area=true&area_color=A78BFA" alt="Gaurav's Contribution Graph" />
 
 </div>
-
-> **Why some cards changed source:** the "Stats" and "Top Languages" cards used to be fetched live from `github-readme-stats.vercel.app`. That public instance is well known to be unreliable right now — it's rate‑limited and frequently returns broken images (confirmed by many open issues on its GitHub repo). So instead of pointing at that live server, this repo now **generates those two cards itself** on a schedule via GitHub Actions (see `.github/workflows/github-stats.yml`) and commits them as static SVGs to a `generated/` folder. That means:
-> - They load instantly, straight from your own repo — no third‑party server, no rate limit, no timeout.
-> - They refresh automatically once a day (or on demand from the **Actions** tab → "Generate GitHub Stats SVGs" → **Run workflow**).
->
-> **One‑time setup required** (I can't run this for you — it needs to happen inside your actual GitHub repo, not here):
-> 1. Add the `.github/workflows/github-stats.yml` file (included below) to the same repo as this README.
-> 2. Go to the repo's **Actions** tab and manually run the workflow once — this creates the `generated/overview.svg` and `generated/languages.svg` files.
-> 3. Commit/push, and the images above will resolve correctly.
->
-> The Streak and Activity Graph cards are left as live third‑party badges since they were already rendering fine in your screenshot — no need to touch what isn't broken.
 
 ---
 
