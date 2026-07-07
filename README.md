@@ -72,12 +72,12 @@ I'm a passionate **undergraduate student** who loves building things that live o
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=grv-galaxy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=C084FC&text_color=ffffff" alt="Gaurav's GitHub Stats" />
+<img height="165em" src="https://github-readme-stats-nine-phi-63.vercel.app/api?username=grv-galaxy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=C084FC&text_color=ffffff" alt="Gaurav's GitHub Stats" />
 <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=grv-galaxy&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=C084FC&fire=C084FC&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=ffffff80" alt="Gaurav's GitHub Streak" />
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=grv-galaxy&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=C084FC&point=ffffff&area=true&area_color=A78BFA" alt="Gaurav's Contribution Graph" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grv-galaxy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff" alt="Top Languages"/>
+<img src="https://github-readme-stats-nine-phi-63.vercel.app/api/top-langs/?username=grv-galaxy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff" alt="Top Languages"/>
 
 </div>
 
