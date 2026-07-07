@@ -99,7 +99,7 @@ I'm a passionate **undergraduate student** who loves building things that live o
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=grv-galaxy&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1" alt="trophies"/>
+<img src="https://github-profile-trophy-eta-nine.vercel.app/?username=grv-galaxy&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1" alt="trophies"/>
 
 </div>
 
