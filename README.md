@@ -73,13 +73,23 @@ I'm a passionate **undergraduate student** who loves building things that live o
 <div align="center">
 
 <img height="165em" src="https://github-readme-stats-nine-phi-63.vercel.app/api?username=grv-galaxy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=C084FC&text_color=ffffff" alt="Gaurav's GitHub Stats" />
-<img height="165em" src="https://streak-stats.demolab.com/?user=grv-galaxy&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=C084FC&fire=C084FC&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=ffffff80" alt="Gaurav's GitHub Streak" />
+<img height="165em" src="https://github-readme-stats-nine-phi-63.vercel.app/api/top-langs/?username=grv-galaxy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff" alt="Top Languages"/>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=grv-galaxy&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=C084FC&point=ffffff&area=true&area_color=A78BFA" alt="Gaurav's Contribution Graph" />
 
-<img src="https://github-readme-stats-nine-phi-63.vercel.app/api/top-langs/?username=grv-galaxy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff" alt="Top Languages"/>
+</div>
+
+---
+
+## 🧊 3D Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/grv-galaxy/grv-galaxy/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="90%"/>
 
 </div>
+
+> A daily-refreshed isometric render of your contribution calendar, generated entirely by a GitHub Action and committed to this repo — no third-party server involved at render time, so it never shows a "failed to fetch" error. See setup note below.
 
 ---
 
@@ -91,7 +101,7 @@ I'm a passionate **undergraduate student** who loves building things that live o
 
 </div>
 
-> This animated snake "eats" your contribution graph. It's generated automatically by the GitHub Action in `.github/workflows/snake.yml` (included below) — you just need to enable it once.
+> This animated snake "eats" your contribution graph. It's generated automatically by the GitHub Action in `.github/workflows/snake.yml` — you just need to enable it once.
 
 ---
 
